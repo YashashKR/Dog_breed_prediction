@@ -85,6 +85,10 @@ The web interface allows you to upload an image of a dog. The model will predict
 
 Open your web browser and go to `http://127.0.0.1:5000/` to interact with the application.
 
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/6287bec8-1156-497d-9925-1e02d552f413)
+
 ## Future Improvements
 
 - **Model Optimization**: Currently, the model can be optimized further with techniques like data augmentation, regularization, or by using more advanced architectures (ResNet, Inception, etc.).
