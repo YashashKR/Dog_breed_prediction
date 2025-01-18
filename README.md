@@ -98,12 +98,6 @@ Open your web browser and go to `http://127.0.0.1:5000/` to interact with the ap
 - **Real-time Prediction**: Add a feature for real-time prediction from a webcam feed.
 - **Additional Features**: Add more details to the breed prediction, such as information about the breed or characteristics.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Future Steps:
 - Add any specific instructions you used for training the model or details on data preprocessing.
 - Replace the GitHub link with your actual repository URL.
